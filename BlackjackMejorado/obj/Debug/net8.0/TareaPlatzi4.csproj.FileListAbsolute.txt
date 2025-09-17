@@ -1,0 +1,15 @@
+C:\c#proyectos\TareaPlatzi4\BlackjackMejorado\bin\Debug\net8.0\TareaPlatzi4.exe
+C:\c#proyectos\TareaPlatzi4\BlackjackMejorado\bin\Debug\net8.0\TareaPlatzi4.deps.json
+C:\c#proyectos\TareaPlatzi4\BlackjackMejorado\bin\Debug\net8.0\TareaPlatzi4.runtimeconfig.json
+C:\c#proyectos\TareaPlatzi4\BlackjackMejorado\bin\Debug\net8.0\TareaPlatzi4.dll
+C:\c#proyectos\TareaPlatzi4\BlackjackMejorado\bin\Debug\net8.0\TareaPlatzi4.pdb
+C:\c#proyectos\TareaPlatzi4\BlackjackMejorado\obj\Debug\net8.0\TareaPlatzi4.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#proyectos\TareaPlatzi4\BlackjackMejorado\obj\Debug\net8.0\TareaPlatzi4.AssemblyInfoInputs.cache
+C:\c#proyectos\TareaPlatzi4\BlackjackMejorado\obj\Debug\net8.0\TareaPlatzi4.AssemblyInfo.cs
+C:\c#proyectos\TareaPlatzi4\BlackjackMejorado\obj\Debug\net8.0\TareaPlatzi4.csproj.CoreCompileInputs.cache
+C:\c#proyectos\TareaPlatzi4\BlackjackMejorado\obj\Debug\net8.0\TareaPlatzi4.sourcelink.json
+C:\c#proyectos\TareaPlatzi4\BlackjackMejorado\obj\Debug\net8.0\TareaPlatzi4.dll
+C:\c#proyectos\TareaPlatzi4\BlackjackMejorado\obj\Debug\net8.0\refint\TareaPlatzi4.dll
+C:\c#proyectos\TareaPlatzi4\BlackjackMejorado\obj\Debug\net8.0\TareaPlatzi4.pdb
+C:\c#proyectos\TareaPlatzi4\BlackjackMejorado\obj\Debug\net8.0\TareaPlatzi4.genruntimeconfig.cache
+C:\c#proyectos\TareaPlatzi4\BlackjackMejorado\obj\Debug\net8.0\ref\TareaPlatzi4.dll
