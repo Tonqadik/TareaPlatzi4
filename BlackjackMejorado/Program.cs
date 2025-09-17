@@ -7,7 +7,14 @@ int puntosJugador = 0, puntosDealer = 0;
 int fichasCasino = 100, apuesta = 0; // Se empieza con unas 100 fichas por defecto
 string CartasMano = "";
 
-
+Console.WriteLine("Cargando...");
+Console.Write("[");
+for (int i = 0; i < 25; i++)
+{
+    Console.Write("|");
+    System.Threading.Thread.Sleep(50);// Espera un poco para imprimir cada linea
+}
+Console.WriteLine("]\n");
 Console.WriteLine("////////////////////////////");
 Console.WriteLine("////                    ////");
 Console.WriteLine("////   BIENVENIDO A UN  ////");
@@ -19,6 +26,7 @@ Console.ReadKey();
 
 do
 {
+    if(fichasCasino == 0) Console.WriteLine("Parece que no tienes ninguna ficha de casino, se le dara una pequeña suma para empezar"); fichasCasino += 50; // En caso de quedarse en 0, entonces se le dan 50 fichas al jugador.
     do // Primer bucle para preguntar cuantas fichas se desea apostar
     {
         Console.WriteLine($"Tienes un total de {fichasCasino} fichas");
@@ -135,6 +143,7 @@ do
         puntosDealer = 0;
         apuesta = 0;
         CartasMano = "";
+        Console.Clear();
     }
 } while (!opcionSalir);
 
